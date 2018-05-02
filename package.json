@@ -1,0 +1,21 @@
+{
+  "contributors": [
+    {
+      "name": "Andreas Hilbig",
+      "url": "https://github.com/ahilbig/types-threex.domevents.git"
+    }
+  ],
+  "dependencies": {
+    "threex.domevents": "^1.0.1"
+  },
+  "description": "TypeScript definitions for threex.js (http://www.threejsgames.com/extensions ).",
+  "devDependencies": {},
+  "directories": {},
+  "license": "MIT",
+  "main": "",
+  "name": "@types/threex.domevents",
+  "optionalDependencies": {},
+  "readme": "README.md",
+  "scripts": {},
+  "version": "1.0.1"
+}
