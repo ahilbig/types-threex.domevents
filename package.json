@@ -6,7 +6,7 @@
     }
   ],
   "dependencies": {
-    "threex.domevents": "git+https://github.com/ahilbig/threex.domevents.git"
+    "threex.domevents": "git+https://github.com/ahilbig/threex.domevents.git#1.0.4-alpha-1"
   },
   "description": "TypeScript definitions for threex.js (http://www.threejsgames.com/extensions ).",
   "devDependencies": {},
@@ -17,5 +17,5 @@
   "optionalDependencies": {},
   "readme": "README.md",
   "scripts": {},
-  "version": "1.0.4"
+  "version": "1.0.4-alpha-1"
 }
